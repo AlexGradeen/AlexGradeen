@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🎨 I'm Alex, the Product QA Specialist at PaintScout!
+
 <!--
 **AlexGradeen/AlexGradeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
